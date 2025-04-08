@@ -1,6 +1,90 @@
-## Ola eu sou a Lucas Adriano, Estudante de Engenharia de Software
+## Ola, meu nome é Lucas Adriano, 
+Tenho 29 anos, sou Estudante de <strong>Engenharia de Software</strong> na UniFIO
 
+## Sobre Mim  
 
+🎓 **Formação:** Cursando 5° período de Engenharia de Software<br> 
+🎓 **Formação:** Formado em Administração de Empresa pela Universidade Estacio de Sá desde 2016.<br>
+💼 **Trabalho:** Supervisor de Faturamento no AME de Ourinhos  
+
+## Habilidades  
+
+<strong> 
+<table border="1" cellspacing="0" cellpadding="10">
+        <thead>
+            <tr>
+                <th>Categoria</th>
+                <th>Habilidades</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FrontEnd</td>
+                <td>
+                    <ul>
+                        <li>Angular</li>
+                        <li>React</li>
+                        <li>JavaScript</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>BackEnd</td>
+                <td>
+                    <ul>
+                        <li>Node</li>
+                        <li>Java</li>
+                        <li>Quarkus</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Banco de Dados</td>
+                <td>
+                    <ul>
+                        <li>SQL</li>
+                        <li>MySQL</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Habilidades Pessoais</td>
+                <td>
+                    <ul>
+                        <li>Bom relacionamento interpessoal</li>
+                        <li>Visão sistêmica</li>
+                        <li>Facilidade em resolução de problemas</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+  
+  <!--<h3>FrontEnd:</h3>
+    <ul>
+        <li>Angular</li>
+        <li>React</li>
+        <li>JavaScript</li>
+    </ul>
+  <h3>BackEnd:</h3>
+    <ul>
+        <li>Node</li>
+        <li>Java</li>
+        <li>Quarkus</li>
+    </ul>
+    <h3>Banco de Dados:</h3>
+    <ul>  
+        <li>SQL</li>
+        <li>MySQL</li>
+    </ul>
+  <h3>Habilidades Pessoais:</h3>
+    <ul>
+        <li>Bom relacionamento interpessoal</li>
+        <li>Visão sistêmica</li>
+        <li>Facilidade em resolução de problemas</li>
+    </ul>
+-->
+<strong>
 <div>
   <a href="https://github.com/LucasAdrian0">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAdrian0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
