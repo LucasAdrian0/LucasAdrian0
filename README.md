@@ -1,9 +1,9 @@
 ## Ola, meu nome é Lucas Adriano, 
-Tenho 29 anos, sou Estudante de <strong>Engenharia de Software</strong> na UniFIO
+Tenho 30 anos, sou Estudante de <strong>Engenharia de Software</strong> na UniFIO
 
 ## Sobre Mim  
 
-🎓 **Formação:** Cursando 5° período de Engenharia de Software<br> 
+🎓 **Formação:** Cursando 6° período de Engenharia de Software<br> 
 🎓 **Formação:** Formado em Administração de Empresa pela Universidade Estacio de Sá desde 2016.<br>
 💼 **Trabalho:** Supervisor de Faturamento no AME de Ourinhos  
 
